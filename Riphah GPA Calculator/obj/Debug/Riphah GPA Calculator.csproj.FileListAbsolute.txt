@@ -1,0 +1,11 @@
+D:\2 Semester\Object Oriented Programming\New folder (3)\Riphah GPA Calculator\bin\Debug\Riphah GPA Calculator.exe.config
+D:\2 Semester\Object Oriented Programming\New folder (3)\Riphah GPA Calculator\bin\Debug\Riphah GPA Calculator.exe
+D:\2 Semester\Object Oriented Programming\New folder (3)\Riphah GPA Calculator\bin\Debug\Riphah GPA Calculator.pdb
+D:\2 Semester\Object Oriented Programming\New folder (3)\Riphah GPA Calculator\obj\Debug\Riphah GPA Calculator.csproj.AssemblyReference.cache
+D:\2 Semester\Object Oriented Programming\New folder (3)\Riphah GPA Calculator\obj\Debug\Riphah GPA Calculator.csproj.SuggestedBindingRedirects.cache
+D:\2 Semester\Object Oriented Programming\New folder (3)\Riphah GPA Calculator\obj\Debug\Riphah_GPA_Calculator.Form1.resources
+D:\2 Semester\Object Oriented Programming\New folder (3)\Riphah GPA Calculator\obj\Debug\Riphah_GPA_Calculator.Properties.Resources.resources
+D:\2 Semester\Object Oriented Programming\New folder (3)\Riphah GPA Calculator\obj\Debug\Riphah GPA Calculator.csproj.GenerateResource.cache
+D:\2 Semester\Object Oriented Programming\New folder (3)\Riphah GPA Calculator\obj\Debug\Riphah GPA Calculator.csproj.CoreCompileInputs.cache
+D:\2 Semester\Object Oriented Programming\New folder (3)\Riphah GPA Calculator\obj\Debug\Riphah GPA Calculator.exe
+D:\2 Semester\Object Oriented Programming\New folder (3)\Riphah GPA Calculator\obj\Debug\Riphah GPA Calculator.pdb
